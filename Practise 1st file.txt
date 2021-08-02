@@ -1,3 +1,7 @@
 
 Adding junk text
+
+Lines to be deleted-1
+Lines to be deleted-2
+
 2nd junk line added
